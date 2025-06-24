@@ -52,8 +52,7 @@ An integrated Charging Station Management System (CSMS) consisting of a Go backe
 
 ## 🎬 Demo App
 
-> **Coming Soon**
-<!-- > [Demo Video](https://) -->
+> [Demo Video](https://drive.google.com/file/d/16nvOqX662dGbfDbYV7RvxoGLH7yHirrP/view?usp=sharing)
 
 ---
 
